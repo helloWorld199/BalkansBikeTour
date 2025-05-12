@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="https://www.locusmap.app">
+	<metadata>
+		<desc>File with points/tracks from Locus Map/4.29.0</desc>
+		<time>2025-05-12T08:38:50.968Z</time>
+	</metadata>
+<wpt lat="45.5090334" lon="16.6970627">
+	<time>2025-05-12T07:04:01.711Z</time>
+<name>TENT 3</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td width="100%" align="center">
+<!-- desc_user:start -->
+Hosted by Cornelia and her family, beautiful people!
+<!-- desc_user:end -->
+</td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+</wpt>
+</gpx>
